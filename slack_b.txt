@@ -1,0 +1,15 @@
+"""
+
+Name: Anthony Ngumah
+NUID: 002114951
+slack hours used: 1
+remaining slack hours: 32
+
+---
+
+Collaborators (who you talked to about the lab, what you talked about):
+N/A
+Source material that you consulted:
+
+
+Other acknowledgment

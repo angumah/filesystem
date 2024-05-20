@@ -1,0 +1,16 @@
+"""
+
+Name: Anthony Ngumah
+NUID: 002114951
+slack hours used: 70
+remaining slack hours: 33
+
+---
+
+Collaborators (who you talked to about the lab, what you talked about):
+I collaborated with Briana Metalia, we talked about the general structure of the file system and worked on understanding how it worked.
+
+Source material that you consulted:
+
+
+Other acknowledgment
